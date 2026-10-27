@@ -20,12 +20,15 @@ I like open source in security because you can read the code, test the controls,
 
 Tech stack
 
-Security: VAPT · OWASP · SAST/DAST · Threat Modelling · SOC Triage · CTI · SIEM/SOAR · Cortex XSOAR · WAF · DLP · PAM · MFA Identity: Active Directory · Microsoft Entra ID · Conditional Access · RBAC · LDAP · RADIUS · SSO Cloud: Azure · AWS · GCP · Oracle Cloud Email: Exchange · Microsoft 365 · DMARC · DKIM · SPF Scripting: PowerShell · Bash · SQL
+Cloud: Azure · AWS · GCP · Oracle Cloud · Virtualization · Containerization Security: VAPT · OWASP · SAST/DAST · Threat Modelling · SOC Triage · CTI · SIEM/SOAR · Cortex XSOAR · WAF · DLP · PAM · MFA Identity: Active Directory · Microsoft Entra ID · Conditional Access · RBAC · LDAP · RADIUS · SSO Enterprise apps: Microsoft 365 · Exchange · Azure AD Connect · DNS and mail flow Email security: SPF · DKIM · DMARC · Phishing and BEC investigation Scripting: PowerShell · Bash · SQL · Windows · Linux
 
 Certifications
 
 OCI Certified Generative AI Professional · OCI Certified AI Foundations Associate · AWS Certified Cloud Practitioner · HCIA Cloud Computing · Aviatrix Certified Engineer (ACE) · Microsoft MCSE, MCSA, MCP
 
 Currently
-Assessing and hardening applications and platforms for government use
+Building hands-on cloud security projects to share here
 Writing about real-time threat intelligence and SOC triage
+Connect
+LinkedIn: https://www.linkedin.com/in/comenogor
+Email: omenogorchinedu@gmail.com
